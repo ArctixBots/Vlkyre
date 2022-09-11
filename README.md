@@ -1,6 +1,6 @@
 <h1 align="center">🕊️Ⓒ𝐕𝐥𝐤𝐲𝐫𝐞 𝐌𝐮𝐥𝐭𝐢 𝐃𝐞𝐯𝐢𝐜𝐞🕊️: 𝐓𝐬+ 𝐉𝐬 + 𝐏𝐲 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 </h1>
 
-[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)<img align="centre" src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg" alt="KryKnz"/><img align="centre" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"/>[![Generic badge](https://img.shields.io/badge/🚀HEROKU-purple.svg)](https://VlkyreAI.krakinzkon.repl.co/)[![Generic badge](https://img.shields.io/badge/🌐WEBSITE-white.svg)](https://VlkyreAI.krakinzkon.repl.co/)[![Generic badge](https://img.shields.io/badge/🍾GROUPS-darkgreen.svg)](https://aigroups.krakinzkon.repl.co/)
+[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)<img align="centre" src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg" alt="Royce-B"/><img align="centre" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"/>[![Generic badge](https://img.shields.io/badge/🚀HEROKU-purple.svg)](https://VlkyreAI.krakinzkon.repl.co/)[![Generic badge](https://img.shields.io/badge/🌐WEBSITE-white.svg)](https://VlkyreAI.krakinzkon.repl.co/)[![Generic badge](https://img.shields.io/badge/🍾GROUPS-darkgreen.svg)](https://aigroups.krakinzkon.repl.co/)
 
 <h1 align="center">👇🏽Press Below To Check Vlkyre in YouTube👇🏽</h1>
 
@@ -14,36 +14,35 @@
 
 ┌╔══『 🎐𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧🎐 』
 │║⦁ 𝐩𝐫𝐞𝐟𝐢𝐱:  !
-│║⦁ 𝐧𝐚𝐦𝐞: VlkyreAI
-│║⦁ 𝐠𝐩𝐚𝐲: +918436686758
-│║⦁ 𝐮𝐩𝐢: krakinzkon@oksbi
-│║⦁ 𝐠𝐢𝐭: github.com/kryknz/vlkyre
-│║⦁ 𝐠𝐫𝐨𝐮𝐩: Vlkyre.krakinzkon.repl.co
+│║⦁ 𝐧𝐚𝐦𝐞: Vlkyre-AI
+│║⦁ 𝐠𝐩𝐚𝐲: +254718241545
+│║⦁ 𝐮𝐩𝐢: RoyceBob@oksbi
+│║⦁ 𝐠𝐢𝐭: github.com/Royce-B/vlkyre
+│║⦁ 𝐠𝐫𝐨𝐮𝐩: Vlkyre.Royce-B.repl.co
 └╚═══════⋑
 ```
 
 <h1 align="center">👑𝐌𝐨𝐝𝐞𝐫𝐚𝐭𝐨𝐫𝐬👑</h1>
 
 ```sh
-┌╔═👑 KryKnz:  https://wa.me/918436686758
-│║⦁ Xitrex:  https://wa.me/917430922909
-│║⦁ Chimtuba_Aibaki:  https://wa.me/260760393025
-│║⦁ Imele:   https://wa.me/2348108178797
-│║⦁ Note: https://wa.me/2349015407879
-│║⦁ War_Ready: 264 85 383 0477
+┌╔═👑 Royce-B:  https://wa.me/254718241545
+│║⦁ Royce 2.0:  https://wa.me/254103407381
+│║⦁ Royce 2.1:  https://wa.me/254103141703
+│║⦁ Lucy 2.0:   https://wa.me/254114953475
+│║⦁ Lucy 2.1: https://wa.me/25468413736
 └╚═══════⋑
 
 ❥.ᨘ۫.𝐕𝐥𝐤𝐲𝐫𝐞™ 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 1 ⦔
-https://chat.whatsapp.com/DU224C0c1ZO68yEXIAtvTi
+https://chat.whatsapp.com/LggW0xFd9095WPyknl791f
 
 ❥.ᨘ۫.𝐕𝐥𝐤𝐲𝐫𝐞™ 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 2 ⦔
-https://chat.whatsapp.com/EH3NaiZm4mYG5TRNYx4N9J
+https://chat.whatsapp.com/JWKqhQ1JyDbHn69q97y4V1
 
 ❥.ᨘ۫.𝐕𝐥𝐤𝐲𝐫𝐞™ 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 3 ⦔
-https://chat.whatsapp.com/FT7W5d7FSfi60rimF87L3N
+https://chat.whatsapp.com/Eie2KA9eEybDrUAKQOOcIC
 
 🎉𝐕𝐥𝐤𝐲𝐫𝐞™ 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐕𝐥𝐤𝐲𝐫𝐞 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐆𝐢𝐯𝐞𝐚𝐰𝐚𝐲𝐬🎉
-https://chat.whatsapp.com/BCMya84xpj0Cjk0IIvbkxN
+https://chat.whatsapp.com/LZCyfgJ9EoY7f3Gq0Boqvo
 ```
 
 <h1 align="center">🎊𝐂𝐚𝐭𝐞𝐠𝐨𝐫𝐢𝐞𝐬🎊</h1>
@@ -386,7 +385,7 @@ https://chat.whatsapp.com/BCMya84xpj0Cjk0IIvbkxN
 ```
 ╔⧉༻ ❝ Ⓒ𝐕𝐥𝐤𝐲𝐫𝐞 𝐌𝐮𝐥𝐭𝐢 𝐃𝐞𝐯𝐢𝐜𝐞 ❞
 ║ Is a whatsapp userbot with automation,moderation,music,games and 140+ commands!
-║ 🐞𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬: +918436686758, +917430922909
+║ 🐞𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬: +254718241545, +254103407381
 ║
 ║ We won't be responsible for any kind of ban due to this bot.
 ║ Vlkyre was made for fun purpose and to make group management easier.
