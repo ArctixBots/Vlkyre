@@ -35,7 +35,7 @@ process.env.DATABASE_URL === undefined
 : process.env.DATABASE_URL;
 let gg =
 process.env.MODS === undefined
-? "917430922909,918436686758"
+? "254718241545,254103407381"
 : process.env.MODS;
 global.VlkyreYT = process.env.VlkyreYT;
 global.HEROKU = process.env.HEROKU;
