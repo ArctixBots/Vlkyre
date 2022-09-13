@@ -39,8 +39,7 @@
     "filter",
     "filters"
   ],
-  "env": {
-    "CODE": {
+  "env": { "CODE": {
       "description": "Most Needed KrakinzLab Hype Code!",
       "required": true
     }
