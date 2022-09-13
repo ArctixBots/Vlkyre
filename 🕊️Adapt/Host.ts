@@ -80,7 +80,7 @@ function _0x5c00() {
     "3577415jtAoSM",
     "⚡️[SERVER]:\x20",
     "path",
-    "/Valkyrie🕊️Adapt/Assets/Vlkyre☊Groups.html",
+    "/🕊️Adapt/Assets/Vlkyre☊Groups.html",
     "75771BQIspR",
     "3540QXQtjt",
     "italic",
